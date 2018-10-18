@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 100%;
+    height: auto;
+}
+.box{
+    width: 75%;
+    height: auto;
+}
+.word{
+    width: 50%;
+    height: auto;
+    display: block;
+}

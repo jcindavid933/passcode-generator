@@ -1,0 +1,10 @@
+/Users/david/Desktop/Coding Dojo/csharp/random_passcode_generator/bin/Debug/netcoreapp2.0/random_passcode_generator.deps.json
+/Users/david/Desktop/Coding Dojo/csharp/random_passcode_generator/bin/Debug/netcoreapp2.0/random_passcode_generator.runtimeconfig.json
+/Users/david/Desktop/Coding Dojo/csharp/random_passcode_generator/bin/Debug/netcoreapp2.0/random_passcode_generator.runtimeconfig.dev.json
+/Users/david/Desktop/Coding Dojo/csharp/random_passcode_generator/bin/Debug/netcoreapp2.0/random_passcode_generator.dll
+/Users/david/Desktop/Coding Dojo/csharp/random_passcode_generator/bin/Debug/netcoreapp2.0/random_passcode_generator.pdb
+/Users/david/Desktop/Coding Dojo/csharp/random_passcode_generator/obj/Debug/netcoreapp2.0/random_passcode_generator.csproj.CoreCompileInputs.cache
+/Users/david/Desktop/Coding Dojo/csharp/random_passcode_generator/obj/Debug/netcoreapp2.0/random_passcode_generator.AssemblyInfoInputs.cache
+/Users/david/Desktop/Coding Dojo/csharp/random_passcode_generator/obj/Debug/netcoreapp2.0/random_passcode_generator.AssemblyInfo.cs
+/Users/david/Desktop/Coding Dojo/csharp/random_passcode_generator/obj/Debug/netcoreapp2.0/random_passcode_generator.dll
+/Users/david/Desktop/Coding Dojo/csharp/random_passcode_generator/obj/Debug/netcoreapp2.0/random_passcode_generator.pdb

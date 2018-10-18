@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Form Submission</title>
+    <link rel="stylesheet" href="~/css/style.css"/>
+  </head>
+  <body>
+    <div class="container">
+        <div class="box">
+            <h1>Random Passcode </h1><br>
+            <div class="word">
+                <h1>@ViewBag.word </h1>
+            </div>
+            <form action="generate" method="post">
+                <input type="submit" value="generate">
+            </form>
+        </div>  
+    </div>
+  </body>
+</html>
